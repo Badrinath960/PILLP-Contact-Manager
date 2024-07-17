@@ -9,7 +9,7 @@ This project is a PHP-based contact management system allowing CRUD operations (
 - **Read:** View a list of all contacts.
 - **Update:** Modify existing contacts.
 - **Delete:** Remove contacts.
-![Screenshot of the application](images/screenshot.png)
+![Screenshot of the application](Admin Login Page.png)
 ## Installation
 1. Clone the repository.
 2. Set up a local PHP environment.
